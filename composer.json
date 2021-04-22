@@ -1,0 +1,11 @@
+{
+    "name": "amirmy/roocket_oop_project",
+    "description": "a  beginner project to understand oop (building a website)",
+    "authors": [
+        {
+            "name": "Amir morteza Yousefi",
+            "email": "amirmy1382@gmail.com"
+        }
+    ],
+    "require": {}
+}
