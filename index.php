@@ -9,8 +9,8 @@ require "./templates/header.php";
         <!-- Blog Entries Column -->
         <div class="col-md-8">
 
-            <h1 class="my-4">Page Heading
-                <small>Secondary Text</small>
+            <h1 class="my-4">Welcome
+                <small> This is my blog</small>
             </h1>
 
             <!-- Blog Post -->
@@ -23,7 +23,7 @@ require "./templates/header.php";
                 </div>
                 <div class="card-footer text-muted">
                     Posted on January 1, 2020 by
-                    <a href="#">Start Bootstrap</a>
+                    <a href="#">Amirmy</a>
                 </div>
             </div>
 
@@ -37,7 +37,7 @@ require "./templates/header.php";
                 </div>
                 <div class="card-footer text-muted">
                     Posted on January 1, 2020 by
-                    <a href="#">Start Bootstrap</a>
+                    <a href="#">Amirmy</a>
                 </div>
             </div>
 
