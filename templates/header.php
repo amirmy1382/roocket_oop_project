@@ -14,10 +14,10 @@ require __DIR__ . "/../‌‌Bootstrap/autoload.php";
     <title>Blog Home - Start Bootstrap Template</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="/public/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../public/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="/public/css/blog-home.css" rel="stylesheet">
+    <link href="../public/css/blog-home.css" rel="stylesheet">
 
 </head>
 
