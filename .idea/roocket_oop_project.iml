@@ -5,6 +5,8 @@
       <sourceFolder url="file://$MODULE_DIR$/App" isTestSource="false" packagePrefix="App\" />
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/templates" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/‌‌Bootstrap" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
     </content>
     <orderEntry type="inheritedJdk" />
