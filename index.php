@@ -1,5 +1,5 @@
 <?php
-require "templates/header.php";
+require "./templates/header.php";
 ?>
 <!-- Page Content -->
 <div class="container">
@@ -137,5 +137,5 @@ require "templates/header.php";
 <!-- /.container -->
 
 <?php
-require "templates/footer.php";
+require "./templates/footer.php";
 ?>
