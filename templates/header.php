@@ -44,6 +44,10 @@ require __DIR__ . "/../‌‌Bootstrap/autoload.php";
                     <a class="nav-link" href="#">Contact</a>
                 </li>
             </ul>
+            <div class="btn-group">
+                <a href="/login.php" class="btn btn-light">Login</a>
+                <a href="/signin.php" class="btn btn-light">Register</a>
+            </div>
         </div>
     </div>
 </nav>
